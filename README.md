@@ -33,7 +33,6 @@ CodeVeritas is a collaborative, real-time code editor where users can seamlessly
 ![Socket io](https://img.shields.io/badge/Socket.io-ffffff?style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <details>
     <summary>
@@ -201,15 +200,13 @@ README.md
 
 ## 📸 **Project Screenshots**
 
-> *(Add these images to your repo and replace the paths accordingly)*
+![Screenshot 1](IMG-20251205-WA0024.jpg)
+![Screenshot 2](IMG-20251205-WA0021.jpg)
+![Screenshot 3](IMG-20251205-WA0025.jpg)
+![Screenshot 4](IMG-20251205-WA0023.jpg)
+![Screenshot 5](IMG-20251205-WA0020.jpg)
+![Screenshot 6](IMG-20251205-WA0018.jpg)
+![Screenshot 7](IMG-20251205-WA0022.jpg)
 
-![Screenshot 1](./IMG-20251205-WA0024.png)
-![Screenshot 2](./IMG-20251205-WA0019.png)
-![Screenshot 3](./IMG-20251205-WA0021.png)
-![Screenshot 4](./IMG-20251205-WA0025.png)
-![Screenshot 5](./IMG-20251205-WA0023.png)
-![Screenshot 6](./IMG-20251205-WA0020.png)
-![Screenshot 7](./IMG-20251205-WA0018.png)
-![Screenshot 8](./IMG-20251205-WA0022.png)
 
 ---
